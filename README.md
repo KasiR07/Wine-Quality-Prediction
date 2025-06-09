@@ -77,4 +77,8 @@ Wine-Quality-Prediction/
    - Final model persisted using `joblib`
 
 ---
+## Visualizations
+![image](https://github.com/user-attachments/assets/96885804-aaa5-4031-8dca-006e012b2d6a)
+
+![image](https://github.com/user-attachments/assets/45fb74bb-e30a-47bc-9437-10026a251e2c)
 
