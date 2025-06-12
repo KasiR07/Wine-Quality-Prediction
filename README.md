@@ -38,8 +38,7 @@ To build a predictive model that classifies wine as **high or low quality** base
   - `pandas`, `numpy`
   - `matplotlib`, `seaborn`
   - `scikit-learn`
-  - `xgboost` *(if used)*
-  - `joblib` *(for model saving)*
+  - `xgboost` 
 
 ---
 
